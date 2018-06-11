@@ -1,0 +1,1 @@
+ping www.moejn.com -t -w 1
